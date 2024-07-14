@@ -1,9 +1,10 @@
+<template>
+    <HomeComp />
+</template>
+
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import HomeComp from '../components/HomeComp.vue'
 </script>
 
-<template>
-  <main>
-    <TheWelcome />
-  </main>
-</template>
+<style lang="scss" scoped>
+</style>
